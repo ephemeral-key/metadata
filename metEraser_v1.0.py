@@ -107,7 +107,6 @@ def main():
                         print "[!] 'y' or 'n' inputs only. "
                         quit()
                 except:
-                    print "except is triggered"
                     continue
             else:
                 print "no EXIF Metadata present."
