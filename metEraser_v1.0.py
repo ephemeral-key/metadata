@@ -5,7 +5,7 @@
 # metEraser is a python privacy tool build to view all EXIF and IPTC metadata for a
 # designated image or directory images. metErase offers the option to strip all
 # metadata from the associated images to allow posting online without disclosing
-# personal information.
+# personal information, such as geolocation.
 # =================================================================================
 
 import Image
